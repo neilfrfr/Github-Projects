@@ -1,6 +1,7 @@
 # WeatherNow 🌤️
 
 A simple, clean, and accurate weather dashboard built with Python. 
+(Developing Prototype)
 
 This application allows users to search for locations worldwide and instantly view current weather conditions, hourly breakdowns, and multi-day forecasts. It is designed to be beginner-friendly but structured well enough for real-world use.
 
